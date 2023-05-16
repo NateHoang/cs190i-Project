@@ -56,8 +56,8 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Samples/XR Interaction Toolkit/2.3.1/XR Device Simulator/Scripts/XRDeviceSimulatorUI.cs" />
     <Compile Include="Assets/Samples/XR Interaction Toolkit/2.3.1/XR Device Simulator/Scripts/XRDeviceSimulatorControllerUI.cs" />
+    <Compile Include="Assets/Samples/XR Interaction Toolkit/2.3.1/XR Device Simulator/Scripts/XRDeviceSimulatorUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Samples/XR Interaction Toolkit/2.3.1/XR Device Simulator/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.asmdef" />
