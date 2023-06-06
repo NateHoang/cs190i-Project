@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - climb
+  tags: []
   layers:
   - Default
   - TransparentFX
