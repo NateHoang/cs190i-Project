@@ -134,7 +134,7 @@ public class Outline : MonoBehaviour {
   
   void Update() {
 
-    Debug.Log("Calling Update");
+    //Debug.Log("Calling Update");
 
     if (needsUpdate) {
       needsUpdate = false;
@@ -277,7 +277,7 @@ public class Outline : MonoBehaviour {
 
   void UpdateMaterialProperties() {
 
-    Debug.Log("Calling Update Material Properties");
+    // Debug.Log("Calling Update Material Properties");
 
     // Apply properties according to mode
     outlineFillMaterial.SetColor("_OutlineColor", OutlineColor);
